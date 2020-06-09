@@ -7,7 +7,7 @@ dev.js
 
 .DS_Store
 npm-debug.log*
-
+.env
 .vscode
 dev.js
 /dev.js
