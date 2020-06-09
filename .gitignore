@@ -6,4 +6,7 @@ npm-debug.log*
 
 .vscode
 dev.js
+/dev.js
+.dev.js
+config
 /config
